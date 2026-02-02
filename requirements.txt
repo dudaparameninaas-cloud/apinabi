@@ -1,0 +1,8 @@
+Flask
+telethon
+asyncio
+aiohttp
+cryptography
+psutil
+python-dotenv
+pysocks
